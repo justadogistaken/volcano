@@ -24,6 +24,7 @@ require (
 	k8s.io/component-base v0.19.11
 	k8s.io/klog v1.0.0
 	k8s.io/kubernetes v1.19.11
+	sigs.k8s.io/kind v0.6.1 // indirect
 	sigs.k8s.io/yaml v1.2.0
 	stathat.com/c/consistent v1.0.0
 	volcano.sh/apis v0.0.0-20210923020136-eb779276d17e
